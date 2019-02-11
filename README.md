@@ -1,4 +1,4 @@
-# LQG-with_LabHE
+# LQG-with-LabHE
 
 This repository contains Python sample code for the protocols described in the paper “Encrypted LQG using Labeled Homomorphic Encryption”. 
 
