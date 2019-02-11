@@ -42,10 +42,11 @@ def memory_usage_psutil():
 
 
 def main():
-""" Run instances of encrypted LQG with Labeled Homomorphic Encryption."""
+	""" Run instances of encrypted LQG with Labeled Homomorphic Encryption."""
 
 	flag = 0 # The Setup computes gives the gain matrices Gamma to the cloud if flag = 0, otherwise, the cloud and actuator compute their encryption
 	verbose = 0 # Print values of variables if verbose = 1, does nothing otherwise
+
 	# folder = 'building_1_room' 
 	# folder = 'Random_instance_5_1'
 	folder = 'building_2_rooms'
